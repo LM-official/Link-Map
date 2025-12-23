@@ -1,9 +1,11 @@
 ---
-url: https://javascript.info/
 tags:
   - guide
 ---
 ---
 # Javascirpt tutorial
+## URL
+https://javascript.info/
+---
 ## Connections
 [[jsDeepGuide]]

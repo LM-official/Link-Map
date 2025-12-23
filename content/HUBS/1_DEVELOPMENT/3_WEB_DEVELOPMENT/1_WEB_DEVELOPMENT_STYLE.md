@@ -5,9 +5,6 @@ tags:
 ---
 # Web development style hub
 [[cssTutorial]]
-[[bootstrapIcons]]
-[[webColors]]
-[[webIllustrations]]
 [[googleFonts]]
 [[cssGrid]]
 [[reactBits]]

@@ -4,10 +4,6 @@ tags:
 ---
 ---
 # Development communities hub
-## Connections
-[[2_DEVELOPMENT_RESOURCES]]
-
----
 [[github]]
 [[w3school]]
 [[geeksforgeeks]]
@@ -17,3 +13,7 @@ tags:
 [[leetCode]]
 [[mozillaDevelopmentNetwork]]
 [[codeValley]]
+
+---
+## Connections
+[[2_DEVELOPMENT_RESOURCES]]

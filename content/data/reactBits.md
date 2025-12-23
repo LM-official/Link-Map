@@ -1,5 +1,4 @@
 ---
-url: https://reactbits.dev/
 tags:
   - guide
   - tool
@@ -7,3 +6,5 @@ tags:
 ---
 # React bits
 collecions of web user interface components
+## URL
+https://reactbits.dev/

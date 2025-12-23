@@ -1,8 +1,9 @@
 ---
-url: https://www.torproject.org/it/
 tags:
   - tool
 ---
 ---
 # Tor
-Naviga in Privato. Esplora Liberamente.
+Naviga in privato, esplora liberamente
+## URL
+https://www.torproject.org/it/

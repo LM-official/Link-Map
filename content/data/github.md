@@ -1,5 +1,4 @@
 ---
-url: https://github.com/search?q=&type=repositories
 tags:
   - guide
   - tool
@@ -7,3 +6,5 @@ tags:
 ---
 # Github
 search on github
+## URL
+https://github.com/search?q=&type=repositories

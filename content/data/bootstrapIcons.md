@@ -1,9 +1,11 @@
 ---
-url: https://icons.getbootstrap.com/
 tags:
   - tool
 ---
 ---
 # Bootstrap icons
+## URL
+https://icons.getbootstrap.com/
+---
 ## Connections
-[[webIllustrations]]
+[[illustrations]]

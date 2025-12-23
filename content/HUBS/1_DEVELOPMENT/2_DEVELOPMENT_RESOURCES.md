@@ -4,12 +4,12 @@ tags:
 ---
 ---
 # Development tools hub
-## Connections
-[[1_DEVELOPMENT_COMMUNITIES]]
-
----
 [[docker]]
 [[githubRepositories]]
 [[politoResources]]
 [[githubSapienza]]
 [[dBeaver]]
+
+---
+## Connections
+[[1_DEVELOPMENT_COMMUNITIES]]

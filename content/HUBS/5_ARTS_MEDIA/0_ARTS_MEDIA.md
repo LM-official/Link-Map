@@ -9,6 +9,9 @@ tags:
 [[2_PHOTOGRAPHY]]
 
 ---
+[[adobeColors]]
+[[bootstrapIcons]]
+[[illustrations]]
 [[converter]]
 [[iLovePdf]]
 [[polyglot]]

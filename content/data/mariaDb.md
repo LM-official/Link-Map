@@ -1,7 +1,8 @@
 ---
-url: https://mariadb.org/
 tags:
   - tool
 ---
 ---
 # Maria DB server
+## URL
+https://mariadb.org/
