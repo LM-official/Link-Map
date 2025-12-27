@@ -13,3 +13,8 @@ tags:
 [[muticulturalism]]
 [[jeremyClarkson]]
 [[atlantropa]]
+[[gridStudio]]
+
+---
+## Connections
+great youtube channel: https://www.youtube.com/@BarbascuraEXtra/videos

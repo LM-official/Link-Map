@@ -3,9 +3,7 @@ tags:
   - guide
 ---
 ---
-# Javascirpt tutorial
+# Javascript tutorial
 ## URL
-https://javascript.info/
----
-## Connections
-[[jsDeepGuide]]
+https://javascript.info
+https://github.com/getify/You-Dont-Know-JS
