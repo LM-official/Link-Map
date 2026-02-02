@@ -16,3 +16,7 @@ tags:
 [[iLovePdf]]
 [[polyglot]]
 [[gridStudio]]
+
+---
+## Connections
+great design youtube channel: https://www.youtube.com/@BRECCIAdesign

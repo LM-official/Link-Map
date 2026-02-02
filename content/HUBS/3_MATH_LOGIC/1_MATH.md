@@ -7,5 +7,7 @@ tags:
 [[eulerNumber]]
 [[pi]]
 [[nthPrime]]
+[[squareRoots]]
 [[matrixRowReducer]]
 [[winBlackjack]]
+[[fibonacci]]

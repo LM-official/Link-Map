@@ -15,8 +15,12 @@ tags:
 ---
 [[multiProgrammingLanguage]]
 [[winhance]]
+[[sortingAlgorithm]]
 
 ---
 ## Connections
-great design youtube channel: https://www.youtube.com/@BRECCIAdesign
-great tech youtube channels: https://www.youtube.com/@Prodigeek, https://www.youtube.com/@LinusTechTips, https://www.youtube.com/@SaddyTech, https://www.youtube.com/@OttoCliman
+great tech youtube channels:
+- https://www.youtube.com/@Prodigeek
+- https://www.youtube.com/@LinusTechTips
+- https://www.youtube.com/@SaddyTech
+- https://www.youtube.com/@OttoCliman
