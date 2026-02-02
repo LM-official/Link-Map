@@ -19,8 +19,4 @@ tags:
 
 ---
 ## Connections
-great tech youtube channels:
-- https://www.youtube.com/@Prodigeek
-- https://www.youtube.com/@LinusTechTips
-- https://www.youtube.com/@SaddyTech
-- https://www.youtube.com/@OttoCliman
+great youtube channel: https://www.youtube.com/@Green-Code/videos
