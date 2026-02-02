@@ -5,4 +5,4 @@ tags:
 ---
 # Maria DB server
 ## URL
-https://mariadb.org/
+https://mariadb.org

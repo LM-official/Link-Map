@@ -14,6 +14,5 @@ tags:
 [[webHosting]]
 [[loadingSpeed]]
 [[react]]
-[[jsDeepGuide]]
 [[jsTutorial]]
 [[mariaDb]]

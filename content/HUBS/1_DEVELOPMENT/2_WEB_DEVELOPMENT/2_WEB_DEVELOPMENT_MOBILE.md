@@ -6,7 +6,6 @@ tags:
 # Web development mobile device hub
 [[htmlMediaCapture]]
 [[htmlGeolocation]]
-[[mapsJs]]
 [[htmlVibration]]
 [[htmlTouch]]
 [[htmlDeviceOrientation]]

@@ -4,7 +4,6 @@ tags:
 ---
 ---
 # Python hub
-[[pythonCheatsheet]]
-[[pythonCheatsheet2]]
+[[pythonCheatsheets]]
 [[pythonLibraries]]
 [[pythonToExe]]

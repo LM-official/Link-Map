@@ -7,9 +7,5 @@ tags:
 [[docker]]
 [[githubRepositories]]
 [[politoResources]]
-[[githubSapienza]]
 [[dBeaver]]
-
----
-## Connections
-[[1_DEVELOPMENT_COMMUNITIES]]
+[[develpmentCommunities]]

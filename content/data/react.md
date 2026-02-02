@@ -6,7 +6,7 @@ tags:
 # React officiale site
 The library for web and native user interfaces
 ## URL
-https://react.dev/
+https://react.dev
 ---
 ## Connections
 chrome extension: https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
