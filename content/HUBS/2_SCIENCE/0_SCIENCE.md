@@ -4,11 +4,12 @@ tags:
 ---
 ---
 # Science hub
-## sub-hubs
-[[1_BIOLOGY]]
-[[2_CHEMISTRY]]
-[[3_ASTRONOMY]]
-
----
+## Sub-hubs
+- [[1_BIOLOGY]]
+- [[2_CHEMISTRY]]
+- [[3_ASTRONOMY]]
 ## Connections
-great youtube channel: https://www.youtube.com/@BarbascuraEXtra/videos
+Youtube channels:
+- https://www.youtube.com/@BarbascuraEXtra/videos
+- https://www.youtube.com/@veritasium/videos
+- https://www.youtube.com/@NovaLectio/videos

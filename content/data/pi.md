@@ -3,7 +3,8 @@ tags:
   - documentary
 ---
 ---
-# How to lie using visual proofs
-proof of pi
-## URL
-https://www.youtube.com/watch?v=VYQVlVoWoPY
+# Pi proof
+How to lie using visual proof
+- https://www.youtube.com/watch?v=VYQVlVoWoPY
+## Connections
+- [[collisionsComputePi]]

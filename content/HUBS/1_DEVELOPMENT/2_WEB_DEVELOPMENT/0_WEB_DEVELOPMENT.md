@@ -4,15 +4,15 @@ tags:
 ---
 ---
 # Web development hub
-## sub-hubs
-[[1_WEB_DEVELOPMENT_STYLE]]
-[[2_WEB_DEVELOPMENT_MOBILE]]
+## Sub-hubs
+- [[1_WEB_DEVELOPMENT_STYLE]]
+- [[2_WEB_DEVELOPMENT_MOBILE]]
 
 ---
-[[HtmlTutorial]]
-[[bootstrap]]
-[[webHosting]]
-[[loadingSpeed]]
-[[react]]
-[[jsTutorial]]
-[[mariaDb]]
+- [[HtmlTutorial]]
+- [[bootstrap]]
+- [[webHosting]]
+- [[loadingSpeed]]
+- [[react]]
+- [[jsTutorial]]
+- [[mariaDb]]

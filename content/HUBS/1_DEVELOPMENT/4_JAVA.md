@@ -4,5 +4,5 @@ tags:
 ---
 ---
 # Java hub
-[[javaDoc]]
-[[javaClassHierarchy]]
+- [[javaDoc]]
+- [[javaClassHierarchy]]

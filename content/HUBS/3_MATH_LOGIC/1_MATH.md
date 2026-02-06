@@ -4,10 +4,13 @@ tags:
 ---
 ---
 # Math hub
-[[eulerNumber]]
-[[pi]]
-[[nthPrime]]
-[[squareRoots]]
-[[matrixRowReducer]]
-[[winBlackjack]]
-[[fibonacci]]
+- [[eulerNumber]]
+- [[pi]]
+- [[nthPrime]]
+- [[squareRoots]]
+- [[matrixRowReducer]]
+- [[winBlackjack]]
+- [[fibonacci]]
+- [[hairyBall]]
+- [[pringlesShape]]
+- [[collisionsComputePi]]

@@ -4,5 +4,4 @@ tags:
 ---
 ---
 # Web colors
-## URL
-https://color.adobe.com/it/create/color-wheel
+- https://color.adobe.com/it/create/color-wheel

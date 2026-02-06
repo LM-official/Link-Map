@@ -4,6 +4,7 @@ tags:
 ---
 ---
 # Logic hub
-[[rubikCube]]
-[[hackRandom]]
-[[boolSolver]]
+- [[rubikCube]]
+- [[hackRandom]]
+- [[boolSolver]]
+- [[springsChain]]

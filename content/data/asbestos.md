@@ -4,9 +4,6 @@ tags:
 ---
 ---
 # Asbestos
-## URL
-https://www.youtube.com/watch?v=Ut85eB4AxyY
-
----
+- https://www.youtube.com/watch?v=Ut85eB4AxyY
 ## Connections
-[[tobacco]]
+- [[tobacco]]

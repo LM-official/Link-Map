@@ -4,17 +4,16 @@ tags:
 ---
 ---
 # Society history hub
-## sub-hubs
-[[1_INTERNET]]
+## Sub-hubs
+- [[1_INTERNET]]
 
 ---
-[[oldBeauty]]
-[[phoneticAlphabet]]
-[[muticulturalism]]
-[[jeremyClarkson]]
-[[atlantropa]]
-[[gridStudio]]
-
----
+- [[oldBeauty]]
+- [[phoneticAlphabet]]
+- [[muticulturalism]]
+- [[jeremyClarkson]]
+- [[atlantropa]]
+- [[gridStudio]]
 ## Connections
-great youtube channel: https://www.youtube.com/@BarbascuraEXtra/videos
+Youtube channel:
+- https://www.youtube.com/@BarbascuraEXtra/videos

@@ -3,7 +3,5 @@ tags:
   - documentary
 ---
 ---
-# How can you "Hack RNG"?
-hack random generators
-## URL
-https://www.youtube.com/watch?v=XDsYPXRCXAs
+# How to hack random generators
+- https://www.youtube.com/watch?v=XDsYPXRCXAs

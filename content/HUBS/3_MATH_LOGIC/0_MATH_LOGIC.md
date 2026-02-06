@@ -4,10 +4,12 @@ tags:
 ---
 ---
 # Math hub
-## sub-hubs
-[[1_MATH]]
-[[2_LOGIC]]
+## Sub-hubs
+- [[1_MATH]]
+- [[2_LOGIC]]
 
 ---
 ## Connections
-great youtube channel: https://www.youtube.com/@3blue1brown
+Youtube channels:
+- https://www.youtube.com/@3blue1brown (more about: https://www.3blue1brown.com/talent)
+- https://www.youtube.com/@veritasium/videos

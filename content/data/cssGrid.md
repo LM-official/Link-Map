@@ -4,8 +4,6 @@ tags:
 ---
 ---
 # CSS grid generator
-## URL
-https://cssgridgenerator.io/
----
+- https://cssgridgenerator.io
 ## Connections
-[[cssTutorial]]
+- [[cssTutorial]]
