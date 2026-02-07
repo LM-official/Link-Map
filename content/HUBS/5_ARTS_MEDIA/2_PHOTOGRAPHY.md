@@ -4,7 +4,7 @@ tags:
 ---
 ---
 # Photography hub
-[[imgHistory]]
-[[wetCollodion]]
-[[iLoveImg]]
-[[usplash]]
+- [[imgHistory]]
+- [[wetCollodion]]
+- [[iLoveImg]]
+- [[usplash]]

@@ -4,11 +4,10 @@ tags:
 ---
 ---
 # Film hub
-[[cgi]]
-[[2dAnimation]]
-[[stopMotion]]
-[[motionCapture]]
-
----
+- [[cgi]]
+- [[2dAnimation]]
+- [[stopMotion]]
+- [[motionCapture]]
 ## Connections
-great youtube channel: https://www.youtube.com/@Slimdogs
+Youtube channel:
+- https://www.youtube.com/@Slimdogs

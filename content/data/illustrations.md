@@ -4,8 +4,6 @@ tags:
 ---
 ---
 # Illustrations
-## URL
-https://undraw.co/illustrations
----
+- https://undraw.co/illustrations
 ## Connections
-[[bootstrapIcons]]
+- [[bootstrapIcons]]
