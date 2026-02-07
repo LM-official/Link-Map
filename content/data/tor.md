@@ -4,6 +4,5 @@ tags:
 ---
 ---
 # Tor
-Naviga in privato, esplora liberamente
-## URL
-https://www.torproject.org/it/
+Browse privately, explore freely
+- https://www.torproject.org/it/

@@ -15,6 +15,7 @@ tags:
 - [[iLovePdf]]
 - [[polyglot]]
 - [[gridStudio]]
+- [[grammelot]]
 ## Connections
 Design Youtube channel:
 - https://www.youtube.com/@BRECCIAdesign

@@ -4,5 +4,4 @@ tags:
 ---
 ---
 # Bool algebra solver
-## URL
-https://www.boolean-algebra.com/
+- https://www.boolean-algebra.com

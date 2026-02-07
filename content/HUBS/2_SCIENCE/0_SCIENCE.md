@@ -9,4 +9,6 @@ tags:
 - [[2_CHEMISTRY]]
 - [[3_ASTRONOMY]]
 ## Connections
-- Youtube channel: https://www.youtube.com/@BarbascuraEXtra/videos
+Youtube channels:
+- https://www.youtube.com/@BarbascuraEXtra/videos
+- https://www.youtube.com/@veritasium/videos
