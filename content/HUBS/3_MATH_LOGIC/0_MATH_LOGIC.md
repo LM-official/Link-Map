@@ -11,4 +11,5 @@ tags:
 ---
 ## Connections
 Youtube channels:
-- https://www.youtube.com/@3blue1brown
+- https://www.youtube.com/@3blue1brown (more about: https://www.3blue1brown.com/talent)
+- https://www.youtube.com/@veritasium/videos

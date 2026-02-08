@@ -11,3 +11,6 @@ tags:
 - [[matrixRowReducer]]
 - [[winBlackjack]]
 - [[fibonacci]]
+- [[hairyBall]]
+- [[pringlesShape]]
+- [[collisionsComputePi]]
