@@ -4,5 +4,6 @@ tags:
 ---
 ---
 # Progressive web app
-## URL
-https://web.dev/explore/progressive-web-apps?hl=it
+- https://web.dev/explore/progressive-web-apps?hl=it
+## Connections
+- [[htmlNotification]]

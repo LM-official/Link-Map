@@ -4,10 +4,7 @@ tags:
   - tool
 ---
 ---
-# Docker hub
+# Docker
 software distribution site
-## URL
-https://hub.docker.com/
----
-## Connections
-tutorial: https://www.youtube.com/watch?v=DQdB7wFEygo
+- https://hub.docker.com
+- tutorial: https://www.youtube.com/watch?v=DQdB7wFEygo

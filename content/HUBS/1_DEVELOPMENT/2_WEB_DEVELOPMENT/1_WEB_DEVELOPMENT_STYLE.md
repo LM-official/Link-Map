@@ -4,7 +4,7 @@ tags:
 ---
 ---
 # Web development style hub
-[[cssTutorial]]
-[[googleFonts]]
-[[cssGrid]]
-[[reactBits]]
+- [[cssTutorial]]
+- [[googleFonts]]
+- [[cssGrid]]
+- [[reactBits]]

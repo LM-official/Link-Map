@@ -18,8 +18,8 @@ This structured approach enables me to maintain a clear high-level overview whil
     - each node has type tags in [documentary, guide, tool]
 
 # Graph webpage:
-https://lm-official.github.io/Link-map/
-
+https://lm-official.github.io/Link-map
+> [!TIP] _(To sort the graph I suggest holding down the index node and release it when all the nodes have stabilized)_
 
 # Quartz v4
 

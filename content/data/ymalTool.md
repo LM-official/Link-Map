@@ -4,5 +4,4 @@ tags:
 ---
 ---
 # YAML tool hub
-## URL
-https://onlineyamltools.com/
+- https://onlineyamltools.com

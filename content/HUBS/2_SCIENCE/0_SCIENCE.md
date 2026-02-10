@@ -12,3 +12,4 @@ tags:
 Youtube channels:
 - https://www.youtube.com/@BarbascuraEXtra/videos
 - https://www.youtube.com/@veritasium/videos
+- https://www.youtube.com/@NovaLectio/videos

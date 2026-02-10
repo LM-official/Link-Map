@@ -3,9 +3,9 @@ tags:
   - hubLvl2
 ---
 ---
-# Development tools hub
-[[docker]]
-[[githubRepositories]]
-[[politoResources]]
-[[dBeaver]]
-[[develpmentCommunities]]
+# Development resources hub
+- [[docker]]
+- [[githubRepositories]]
+- [[universityResources]]
+- [[dBeaver]]
+- [[develpmentCommunities]]

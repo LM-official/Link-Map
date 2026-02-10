@@ -4,8 +4,4 @@ tags:
 ---
 ---
 # Java official documentation
-## URL
-https://docs.oracle.com/javase/8/docs/api/
----
-## Connections
-[[javaClassHierarchy]]
+- https://docs.oracle.com/javase/8/docs/api

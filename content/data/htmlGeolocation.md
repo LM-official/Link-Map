@@ -4,6 +4,5 @@ tags:
 ---
 ---
 # HTML Geolocation API
-## URL
-https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
-https://developers.google.com/maps/documentation/javascript/overview?hl=it
+- https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
+- https://developers.google.com/maps/documentation/javascript/overview?hl=it

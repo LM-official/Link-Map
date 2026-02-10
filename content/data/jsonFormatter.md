@@ -4,5 +4,4 @@ tags:
 ---
 ---
 # JSON formatter
-## URL
-https://jsonformatter.curiousconcept.com/
+- https://jsonformatter.curiousconcept.com

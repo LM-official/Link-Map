@@ -4,19 +4,19 @@ tags:
 ---
 ---
 # Development hub
-## sub-hubs
-[[1_DEVELOPMENT_RESOURCES]]
-[[0_WEB_DEVELOPMENT]]
-[[3_PYTHON]]
-[[4_JAVA]]
-[[5_C]]
-[[6_JSON_YAML]]
+## Sub-hubs
+- [[1_DEVELOPMENT_RESOURCES]]
+- [[0_WEB_DEVELOPMENT]]
+- [[3_PYTHON]]
+- [[4_JAVA]]
+- [[5_C]]
+- [[6_JSON_YAML]]
 
 ---
-[[multiProgrammingLanguage]]
-[[winhance]]
-[[sortingAlgorithm]]
-
----
+- [[multilanguageProject]]
+- [[winhance]]
+- [[sortingAlgorithms]]
 ## Connections
-great youtube channel: https://www.youtube.com/@Green-Code/videos
+Youtube channel:
+- https://www.youtube.com/@Green-Code/videos
+- https://www.youtube.com/@BroCodez/videos

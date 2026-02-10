@@ -4,8 +4,6 @@ tags:
 ---
 ---
 # CSS tutorial
-## URL
-https://www.w3schools.com/cssref/index.php
----
+- https://www.w3schools.com/cssref/index.php
 ## Connections
-[[cssGrid]]
+- [[cssGrid]]

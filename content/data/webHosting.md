@@ -5,5 +5,4 @@ tags:
 ---
 # CloudFlare
 web page hosting
-## URL
-https://www.cloudflare.com/it-it/
+- https://www.cloudflare.com/it-it

@@ -4,5 +4,4 @@ tags:
 ---
 ---
 # PageSpeed insights
-## URL
-https://pagespeed.web.dev/
+- https://pagespeed.web.dev

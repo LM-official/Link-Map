@@ -4,5 +4,4 @@ tags:
 ---
 ---
 # JSON to graph visualizer
-## URL
-https://jsoncrack.com/
+- https://jsoncrack.com

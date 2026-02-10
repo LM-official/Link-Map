@@ -4,5 +4,4 @@ tags:
 ---
 ---
 # HTML Tutorial
-## URL
-https://www.w3schools.com/HTML/default.asp
+- https://www.w3schools.com/HTML/default.asp

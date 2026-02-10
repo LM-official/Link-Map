@@ -22,10 +22,3 @@ tags:
 16. Realizzato con ML: [https://github.com/GokuMohandas/Made-...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3R6RW94TWYydXF5ejJoR3UwS2FTNVB4UC14d3xBQ3Jtc0trYmg0QlVhQlNqUzdOTl91OERLc0lhcXZNcC1BcF81ckxBSGdaWlpreWRrYXJJVjBKRWh0RzVaMUZnbTZ3TEc0bjdJZ3ZKZGtpSTZoUWUwQnV0S1A5ZldhbjBZTVRONkFuMU1lSmFSMy1rbGF0VUZLMA&q=https%3A%2F%2Fgithub.com%2FGokuMohandas%2FMade-With-ML&v=cgOPg5cCr2g)
 
 YouTube repositories explanation: https://www.youtube.com/watch?v=cgOPg5cCr2g
-
----
-# Sapienza student network
-## URL
-https://github.com/sapienzastudentsnetwork
----
-Notes (like books), Exyss: https://github.com/Exyss/university-notes/tree/main

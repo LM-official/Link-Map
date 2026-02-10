@@ -4,5 +4,4 @@ tags:
 ---
 ---
 # C data types
-## URL
-https://en.wikipedia.org/wiki/C_data_types
+- https://en.wikipedia.org/wiki/C_data_types
