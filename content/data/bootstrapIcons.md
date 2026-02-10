@@ -4,6 +4,6 @@ tags:
 ---
 ---
 # Bootstrap icons
-- https://icons.getbootstrap.com/
+- https://icons.getbootstrap.com
 ## Connections
 - [[illustrations]]
