@@ -16,6 +16,7 @@ tags:
 - [[multilanguageProject]]
 - [[winhance]]
 - [[sortingAlgorithms]]
+- [[bitwise]]
 ## Connections
 Youtube channel:
 - https://www.youtube.com/@Green-Code/videos
