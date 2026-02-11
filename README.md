@@ -12,10 +12,9 @@ The graph visualizes the information architecture and the interconnections betwe
     - atomic notes (grey): the granular leaf nodes (e.g., pythonCheatsheets.md, javaClassHierarchy.md) representing specific concepts and the actual content of the documentation.
 This structured approach enables me to maintain a clear high-level overview while diving into the technical details.
 # Filenames:
-
-    - each hub has a filename in uppercase and snake_case
-    - each node has a filename in camelCase
-    - each node has type tags in [documentary, guide, tool]
+- each hub has a filename in uppercase and snake_case
+- each node has a filename in camelCase
+- each node has type tags in **[documentary, guide, tool]**
 
 # Graph webpage:
 https://lm-official.github.io/Link-map

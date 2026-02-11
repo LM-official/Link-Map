@@ -14,6 +14,8 @@ tags:
 - [[jeremyClarkson]]
 - [[atlantropa]]
 - [[gridStudio]]
+- [[moneyValue]]
+- [[johnRockefeller]]
 ## Connections
 Youtube channel:
 - https://www.youtube.com/@BarbascuraEXtra/videos

@@ -11,3 +11,4 @@ tags:
 - [[ozoneHole]]
 - [[tobacco]]
 - [[wetCollodion]]
+- [[goldPurification]]
