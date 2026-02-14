@@ -8,6 +8,8 @@ tags:
 - [[1_BIOLOGY]]
 - [[2_CHEMISTRY]]
 - [[3_ASTRONOMY]]
+---
+- [[pleo]]
 ## Connections
 Youtube channels:
 - https://www.youtube.com/@BarbascuraEXtra/videos
