@@ -9,7 +9,7 @@ tags:
 - [[2_WEB_DEVELOPMENT_MOBILE]]
 
 ---
-- [[HtmlTutorial]]
+- [[htmlTutorial]]
 - [[bootstrap]]
 - [[webHosting]]
 - [[loadingSpeed]]
