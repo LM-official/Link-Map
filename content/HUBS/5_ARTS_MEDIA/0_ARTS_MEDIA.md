@@ -12,7 +12,7 @@ tags:
 - [[bootstrapIcons]]
 - [[illustrations]]
 - [[converter]]
-- [[iLovePdf]]
+- [[pdfEditor]]
 - [[polyglot]]
 - [[gridStudio]]
 - [[grammelot]]
