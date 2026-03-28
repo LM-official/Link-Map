@@ -1,8 +1,8 @@
 # Link-map
 This repository hosts my personal Knowledge Base managed via Obsidian.
+I just did online researches for the content, **I AM NOT THE OWNER OF THE CONTENT DISPLAYED**.
 The graph visualizes the information architecture and the interconnections between the various technical.
 
-# Content/:
 # Graph structure:
 
     - core (red): the central node 0_HOME acts as the primary hub for navigation.

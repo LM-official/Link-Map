@@ -10,6 +10,7 @@ tags:
 - [[3_ASTRONOMY]]
 ---
 - [[pleo]]
+- [[timeTravel]]
 ## Connections
 Youtube channels:
 - https://www.youtube.com/@BarbascuraEXtra/videos

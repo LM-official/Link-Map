@@ -16,6 +16,7 @@ tags:
 - [[polyglot]]
 - [[gridStudio]]
 - [[grammelot]]
+- [[clipArchive]]
 ## Connections
 Design Youtube channel:
 - https://www.youtube.com/@BRECCIAdesign
