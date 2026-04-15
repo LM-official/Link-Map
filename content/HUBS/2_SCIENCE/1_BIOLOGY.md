@@ -10,3 +10,4 @@ tags:
 - [[machineVsUs]]
 - [[perfumeExtraction]]
 - [[yuka]]
+- [[botulinum]]
