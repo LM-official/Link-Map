@@ -14,9 +14,11 @@ tags:
 
 ---
 - [[multilanguageProject]]
-- [[winhance]]
+- [[windowsClear]]
 - [[sortingAlgorithms]]
 - [[bitwise]]
+- [[iPhoneVisaHack]]
+- [[shellExplainer]]
 ## Connections
 Youtube channel:
 - https://www.youtube.com/@Green-Code/videos
