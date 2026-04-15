@@ -50,7 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
         centerForce: 0.6,
         repelForce: 4.0,
         linkDistance: 30,
-        fontSize: 0.4,
+        fontSize: 0.6,
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
