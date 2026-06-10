@@ -1,40 +1,82 @@
-# Link-map
-This repository hosts my personal Knowledge Base managed via Obsidian.
-I just did online researches for the content, **I AM NOT THE OWNER OF THE CONTENT DISPLAYED**.
-The graph visualizes the information architecture and the interconnections between the various technical.
+<div align="center">
 
-# Graph structure:
+# 🗺️ Link-map
 
-    - core (red): the central node 0_HOME acts as the primary hub for navigation.
-    - macro domains (yellow): the graph branches out into distinct areas of expertise such as 0_DEVELOPMENT, 0_SCIENCE, 0_MATH_LOGIC, 0_SOCIETY_HISTORY and 0_ARTS_MEDIA
-    - thematic clusters (green): rach domain is hierarchically organized into specific nodes (e.g., 2_PYHTON, 4_JAVA, 5_C) to structure concepts in a modular way.
-    - intermediate hubs (purple): sub-clusters acting as bridges between broader themes and specific content, organizing dense topics into manageable sections.
-    - atomic notes (grey): the granular leaf nodes (e.g., pythonCheatsheets.md, javaClassHierarchy.md) representing specific concepts and the actual content of the documentation.
-This structured approach enables me to maintain a clear high-level overview while diving into the technical details.
-# Filenames:
-- each hub has a filename in uppercase and snake_case
-- each node has a filename in camelCase
-- each node has type tags in **[documentary, guide, tool]**
+**A personal knowledge base** — a *digital garden* of notes
+gathered through online research and structured as an interactive graph.
 
-# Graph webpage:
-https://lm-official.github.io/Link-map
-> _(To sort the graph I suggest holding down the index node and release it when all the nodes have stabilized)_
+![Notes](https://img.shields.io/badge/Notes-110-4c1?style=flat-square)
+![Language](https://img.shields.io/badge/Notes-Italian-008C45?style=flat-square)
+![Language](https://img.shields.io/badge/Notes-English-008C45?style=flat-square)
+![License](https://img.shields.io/badge/Content-mixed%20copyright-lightgrey?style=flat-square)
 
-# Quartz v4
+**[→ Explore the live graph](https://lm-official.github.io/Link-map)**
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> [!WARNING]
+> These notes collect publicly available information for personal study.
+> **I am not the owner of the content displayed.**
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+</div>
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+---
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## 📖 Overview
 
-## Sponsors
+Link-map maps how I learn: every note is an atomic idea, every link a connection between ideas. The notes are curated in [Obsidian](https://obsidian.md)/[Visual Studio Code](https://code.visualstudio.com) and published with [Quartz](https://quartz.jzhao.xyz), producing a navigable map with various fields of knowledge.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+---
+
+## 🕸️ The graph
+
+The graph fans out from a single home node into progressively more specific topics:
+
+| Layer | Color | Role |
+| --- | :---: | --- |
+| **Core** | 🔴 | `0_HOME` — the entry point for navigation |
+| **Macro domains** | 🟡 | the main broad fields of knowledge |
+| **Thematic clusters** | 🟢 | topics within a domain (e.g. `3_PYTHON`, `4_JAVA`) |
+| **Intermediate hubs** | 🟣 | bridges that group dense topics into sections |
+| **Atomic notes** | ⚪ | the leaf nodes holding the actual content |
+
+This keeps a high-level overview always in reach while letting me dive into the details.
+
+> [!TIP]
+> To settle the graph, hold down the home node and release it once the layout stabilizes.
+
+---
+
+## 🌍 Domains
+
+| Domain | What's inside |
+| :----- | :------------ |
+| 💻 **Development** | Web, **Python**, **Java**, **C** and data formats — tutorials, libraries and tools |
+| 🔬 **Science** | Biology, chemistry and astronomy — curiosities and documentaries |
+| 🧮 **Math & Logic** | Numbers, theorems and boolean logic — curiosities and documentaries |
+| 🏛️ **Society & History** | How society evolves — including the history and culture of the internet |
+| 🎨 **Arts & Media** | Film, photography and new technologies |
+
+---
+
+## 🏷️ Conventions
+
+| Element | Convention | Example |
+| :------ | :--------- | :------ |
+| **Hubs** | `UPPER_SNAKE_CASE` | `3_PYTHON` |
+| **Notes** | `camelCase` | `eulerNumber` |
+| **Tags** | one type per note | `documentary` · `guide` · `tool` |
+
+---
+
+## 🤝 Credits
+
+Thanks to the tools that make this garden possible:
+
+- **[Quartz v4](https://quartz.jzhao.xyz)** by [jackyzha0](https://github.com/jackyzha0) — the static site generator powering the live graph
+
+---
+
+<div align="center">
+
+**Link-map — a personal digital garden**
+
+</div>
