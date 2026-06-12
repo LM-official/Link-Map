@@ -18,6 +18,7 @@ tags:
 - [[johnRockefeller]]
 - [[aiTax]]
 - [[englishDictionary]]
+- [[theoryHolding]]
 ## Connections
 Youtube channel:
 - https://www.youtube.com/@BarbascuraEXtra/videos

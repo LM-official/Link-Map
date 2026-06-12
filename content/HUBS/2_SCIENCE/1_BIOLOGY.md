@@ -11,3 +11,6 @@ tags:
 - [[perfumeExtraction]]
 - [[yuka]]
 - [[botulinum]]
+## Connections
+Youtube channels:
+- https://www.youtube.com/@DrPlants/videos
