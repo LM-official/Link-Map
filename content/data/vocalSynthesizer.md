@@ -1,6 +1,6 @@
 ---
 tags:
-    - documentary
+  - documentary
 ---
 ---
 # History of vocal synthesizers
