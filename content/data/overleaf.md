@@ -1,6 +1,6 @@
 ---
 tags:
-    - tool
+  - tool
 ---
 ---
 # Overleaf, LaTeX compiler

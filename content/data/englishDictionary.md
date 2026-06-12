@@ -1,6 +1,6 @@
 ---
 tags:
-    - tool
+  - tool
 ---
 ---
 # English dictionary with context
