@@ -20,6 +20,7 @@ tags:
 - [[enshittification]]
 - [[kobold]]
 - [[vocalSynthesizer]]
+- [[neuralNetwork]]
 ## Connections
 Design Youtube channel:
 - https://www.youtube.com/@BRECCIAdesign
