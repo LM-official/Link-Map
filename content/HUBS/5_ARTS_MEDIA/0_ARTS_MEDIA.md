@@ -1,29 +1,31 @@
 ---
+
 tags:
   - hubLvl1
+
 ---
+
 ---
-# Arts media hub
+
+# Arts and media hub
 ## Sub-hubs
 - [[1_FILM]]
 - [[2_PHOTOGRAPHY]]
+
 ---
+
 - [[adobeColors]]
 - [[bootstrapIcons]]
 - [[illustrations]]
-- [[converter]]
-- [[pdfEditor]]
-- [[polyglot]]
-- [[gridStudio]]
-- [[grammelot]]
+- [[fileConverters]]
 - [[clipArchive]]
-- [[enshittification]]
-- [[kobold]]
+- [[gridStudio]]
 - [[vocalSynthesizer]]
-- [[neuralNetwork]]
-## Connections
+
+## Sources
 Design Youtube channel:
 - https://www.youtube.com/@BRECCIAdesign
+
 Tech Youtube channels:
 - https://www.youtube.com/@Prodigeek
 - https://www.youtube.com/@LinusTechTips

@@ -1,24 +1,32 @@
 ---
+
 tags:
   - guide
----
----
-# Some useful GitHub repositories
-1. Liste fantastiche: [https://github.com/sindresorhus/awesome](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXdxYnZUNTZKdVhmaXgzWjFhNjVjckxPUGlpUXxBQ3Jtc0trVFJoN2o4d0UzT3VzbWF4bDdwV3U0VmlpS01KcTJJeDFtSzhncFFHcFdBb3puUFJmSFh1S1dJT2d0RFIxd2g5QUVZa2FBbUZObllzYmJieG00TnQ4RGk4VGtia1B3Wm5pOVlrTUtwQnc0M1Y4eEJ6VQ&q=https%3A%2F%2Fgithub.com%2Fsindresorhus%2Fawesome&v=cgOPg5cCr2g)
-2. Gli algoritmi: [https://github.com/thealgorithms](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2JkQUc3VTFvV1NQNU1xSkJOTF9Nc2VRQnhFQXxBQ3Jtc0tucFVQTENTTlpoWWJoSVhnRmZrcUtMYWtfNzAtaG5saVJrei1nYjNkWS12UG1tLWxlVHdJNUplT2lTSzZXaEcwOGZWRlM4RTlCOGh2ZzJDVE5YbVBsSG1NSEtlUHJQTzNRYVZ5cnlFVFFPYVFpdWw5VQ&q=https%3A%2F%2Fgithub.com%2Fthealgorithms&v=cgOPg5cCr2g)
-3. Crea il tuo X: [https://github.com/codecrafters-io/bu...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblZrU0tnS3dKcGpmYmFseXB1cHMtSlUtTkhXUXxBQ3Jtc0ttaUNMRjNINlVKUWtfN3dIejFGMk9udEdha0I1LXhic1dobWRrNURfU19wa2VieDFhek4xYkwyUmYxaFFIV1VqWlRucUxyVWFOejZoS3ROTFc4Um5fQUZWOWs1VW1WSWdzbTY3d0c4YWFfSVZ2OFl6OA&q=https%3A%2F%2Fgithub.com%2Fcodecrafters-io%2Fbuild-your-own-x&v=cgOPg5cCr2g)
-4. Gratuito per sviluppatori: [https://github.com/ripienaar/free-for...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDN4U2VNN21TTHljT2pwMGVSb2pqTXRLSmJGd3xBQ3Jtc0tsaUVVN25BVFlUWjg1YkI4SzFJd3ZKYzZKSVVUUmNEeEtNTGFKZ0xFQ2JscFJrX0gweUFHaXFXWjF4TE56V0tOeG5NclhYQXpORW5Lem9PdmtKc0ZMVklJMGpkYi03X0wtcDFqbUtuVmF5QTRzYXdtOA&q=https%3A%2F%2Fgithub.com%2Fripienaar%2Ffree-for-dev&v=cgOPg5cCr2g)
-5. Libri di programmazione gratuiti: [https://github.com/EbookFoundation/fr...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXhTbmJiVEJ2RmkxazlHX3ppbWFINVB4T21JZ3xBQ3Jtc0tudFZORDZMUzlNTFE0NTVKTmg0eWlHQ054VWVNYVBET3JRN3BwcmstaDluRkctcGVwX0xCTmpXdkNuQUNac0NZc3BZOTRHZXpsVjM2R1hKck1nOE4wTmpNTlFONnJBdUdXSUhpM0ZBWktJS0FRNXZMdw&q=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&v=cgOPg5cCr2g)
-6. Roadmap.sh: [https://github.com/kamranahmedse/deve...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDdXWnVjQnNycGh0QlpEaTc0V2k0M0x5Ry1YUXxBQ3Jtc0trcTlzN1dSNVphSlVsbWtnMDdqN01pT3VyUVNqc3VXNnZQRVdoQVE2RmVSOTdZRzFpSzlhQVNiZVctU2dJcFZTcF8yODJGMHoyekFEM0pBWmhqSTF0R2NLbkg3UkdYUnNCSXZ0VEdJMl9MbUdod21oSQ&q=https%3A%2F%2Fgithub.com%2Fkamranahmedse%2Fdeveloper-roadmap&v=cgOPg5cCr2g)
-7. Informatica: [https://github.com/ossu/computer-science](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFhkSTNER2pIYmMtTHlEWHVLQzNEQnlVbFRUZ3xBQ3Jtc0ttYjF1VHJyRWJoVkZSaHpudWR5SkRleW5MV1BKaGtKTUt3MEFJazk2X3FrYjZzXzFnckRJSFE4Y2MySGs3elhRSXd5VDFwVHJEdk55bndDRmxrSFVWMWFyOHlFd3Q2VThELXVSS0J6a0ViRGFENDNYaw&q=https%3A%2F%2Fgithub.com%2Fossu%2Fcomputer-science&v=cgOPg5cCr2g)
-8. Blog di ingegneria: [https://github.com/kilimchoi/engineer...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUdsdFNxM1FUQXBJMDhaLUVQSWZaODB5WE9Yd3xBQ3Jtc0ttV0NPTHpNUkd0bDNBd2NOUWQzZzlHYUxva2JKNS04a2tXRENnbTF2ZkhiVFJta3h2UHN5MmFRSmpZRzAyS0pRZk9XTTVGbERfcHNqV0U1b1d2RTNlTjA5VWFreVpNSjJHN0FIZHlJYThndkl3R09VSQ&q=https%3A%2F%2Fgithub.com%2Fkilimchoi%2Fengineering-blogs&v=cgOPg5cCr2g)
-9. Manuale di progettazione di sistemi: [https://github.com/donnemartin/system...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFhWOUtmY0pZMUI0c25XYjdaR193OUx1aGlfUXxBQ3Jtc0tscVpFYmdTclk1UzlTUzdPNE92M0tlU2JsZWVjYkdjZV82STVOTWlJeUg5N1ZXdkNOVkVJVFJmZHVjQVV5bmJJNkpwM0Jua2VLU2UxNUFaVUZnRkxJSDV5NW1NZTVlYTIxS0VnaEdkVTkxTjJSTVZSWQ&q=https%3A%2F%2Fgithub.com%2Fdonnemartin%2Fsystem-design-primer&v=cgOPg5cCr2g)
-10. API pubbliche: [https://github.com/public-apis/public...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnU1ZUxPRXVSU3hpUThmOFFWNHFsNU9tOEh1UXxBQ3Jtc0trVS1Zd0tUNzJ2Tk5SZVBOdEtXZkMyclRIRVd2T2NNVWZIZHdwLWRYRGFmSUp0ODZzbGU5TEhNU3VmaTdtekY3UEZhclBMMmUwTU4yelZickNYWVkwSFZVQVd4bXRfTEo4cFN0WFloSWxUOHpzeGdDcw&q=https%3A%2F%2Fgithub.com%2Fpublic-apis%2Fpublic-apis&v=cgOPg5cCr2g)
-11. Alternative open source: [https://github.com/btw-so/open-source...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFQ0MGpLVVJFTk1vUTBYMjZGYnlGWVlBaEZ0QXxBQ3Jtc0tteGhsWWs1Q2k5S2J3UExwQlhleElBemN4ZDdMLW1SZm1VLVpZYXI4c05RTEVjQlNwbTVCVUVvTTg5bkJGLUR1RTd0XzMzZW9qR0l3T1NNYVYtN3BhZUZPWnpIdkROb3h0cFBuamluNjFiQTYyQWRDYw&q=https%3A%2F%2Fgithub.com%2Fbtw-so%2Fopen-source-alternatives&v=cgOPg5cCr2g)
-12. Articoli che amiamo: [https://github.com/papers-we-love/pap...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmIzSzNFSHVUakRxSjE1QndwRFZUYW5ibWw0UXxBQ3Jtc0ttV05fOXd0NndwNzNIaFNyUGwzbm9JX0FRbUQ2RFFPZ1IwaHloQ0dVUzlWUTdpR2FFLTVBNXVqQzFLVHphZVJXVFV5cmRuNnAzR0ptckJJaXBqTktwRm1VYUZKeENaZ3lKZGsyMTQwLWZ0WE0zblIzZw&q=https%3A%2F%2Fgithub.com%2Fpapers-we-love%2Fpapers-we-love&v=cgOPg5cCr2g)
-13. I migliori siti web che un programmatore dovrebbe visitare: [https://github.com/sdmg15/Best-websit...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU8wc3J3ck0wVGFLaXFXTjJoVThaRUdDeGNFQXxBQ3Jtc0tuLVRIelUwM1owY3Q4cGlPQzEwcTlOUzBkaGFjOFlQMmJ3NWYybjlrYUVHcy1Od04xYlFhVHQ2MmZuWTNqRC1lOVp6c0hxT1Awcmd4OGszMzNHS28zUkJvMjN4dTZmM19YVkhyNGlmaXZLMzdIa0pTZw&q=https%3A%2F%2Fgithub.com%2Fsdmg15%2FBest-websites-a-programmer-should-visit&v=cgOPg5cCr2g)
-14. Master in Ingegneria Informatica da zero: [https://github.com/rasbt/LLMs-from-sc...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVFLeWlySXFoR2tEdHRzUTQyQmdvYnN5dnNrd3xBQ3Jtc0tucnZwTmt5R2QwTVJiVjhyQWl6V18tOXhEb25LLWJ0NU92eDZKM2NVQnRWZ2Y3d29wLUYwNGFjdnl5NEFfR3kydmREcS1VNTQ1OW9EVWQ0ektIZEtwSHYwa3h4SVJOY3Z2cnNQb0hlOTZZaUlYS09wNA&q=https%3A%2F%2Fgithub.com%2Frasbt%2FLLMs-from-scratch&v=cgOPg5cCr2g)
-15. ML da zero: [https://github.com/eriklindernoren/ML...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbW8tbVM4RTMtUmd0WWRxRVdWdlZCcDFYS3ZwQXxBQ3Jtc0trN0NCZkVxUHBlV2U0SnE3M1d1UWxNV09ueERYU2RYUUFMQTBiQmw1aERYRHVZN2pvVzlac3dYbVBlMmV3VTJxbDhwZnV0NHJKU0Z6QmQ3d0FFbWJQQ3dnQ0M5c0xJS0V4UG9xaDR2N2tlVWh1WUZVMA&q=https%3A%2F%2Fgithub.com%2Feriklindernoren%2FML-From-Scratch&v=cgOPg5cCr2g)
-16. Realizzato con ML: [https://github.com/GokuMohandas/Made-...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3R6RW94TWYydXF5ejJoR3UwS2FTNVB4UC14d3xBQ3Jtc0trYmg0QlVhQlNqUzdOTl91OERLc0lhcXZNcC1BcF81ckxBSGdaWlpreWRrYXJJVjBKRWh0RzVaMUZnbTZ3TEc0bjdJZ3ZKZGtpSTZoUWUwQnV0S1A5ZldhbjBZTVRONkFuMU1lSmFSMy1rbGF0VUZLMA&q=https%3A%2F%2Fgithub.com%2FGokuMohandas%2FMade-With-ML&v=cgOPg5cCr2g)
 
-YouTube repositories explanation: https://www.youtube.com/watch?v=cgOPg5cCr2g
+---
+
+---
+
+# Some useful GitHub repositories
+Curated repositories collecting learning material for developers
+- Awesome lists: https://github.com/sindresorhus/awesome
+- Algorithms: https://github.com/thealgorithms
+- Build your own X: https://github.com/codecrafters-io/build-your-own-x
+- Free for developers: https://github.com/ripienaar/free-for-dev
+- Free programming books: https://github.com/EbookFoundation/free-programming-books
+- Developer roadmaps: https://github.com/kamranahmedse/developer-roadmap
+- Computer science curriculum: https://github.com/ossu/computer-science
+- Engineering blogs: https://github.com/kilimchoi/engineering-blogs
+- System design primer: https://github.com/donnemartin/system-design-primer
+- Public APIs: https://github.com/public-apis/public-apis
+- Open source alternatives: https://github.com/btw-so/open-source-alternatives
+- Papers we love: https://github.com/papers-we-love/papers-we-love
+- Best websites a programmer should visit: https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+- LLMs from scratch: https://github.com/rasbt/LLMs-from-scratch
+- Machine learning from scratch: https://github.com/eriklindernoren/ML-From-Scratch
+- Made with ML: https://github.com/GokuMohandas/Made-With-ML
+- Video explaining these repositories: https://www.youtube.com/watch?v=cgOPg5cCr2g
+
+## Connections
+- [[developmentCommunities]]
+- [[universityResources]]

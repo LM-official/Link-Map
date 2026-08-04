@@ -1,8 +1,13 @@
 ---
+
 tags:
   - documentary
+
 ---
+
 ---
-# Software from cleanup Windows
+
+# Windows cleanup software
+Tools to strip bloat and speed up a Windows install
 - https://www.youtube.com/watch?v=5pCkJQPskbg
-WinhanceTutorial: https://www.youtube.com/watch?v=KYZxSlOOLyQ
+- Winhance tutorial: https://www.youtube.com/watch?v=KYZxSlOOLyQ

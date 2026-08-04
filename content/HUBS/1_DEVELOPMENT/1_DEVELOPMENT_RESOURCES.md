@@ -1,11 +1,19 @@
 ---
+
 tags:
   - hubLvl2
+
 ---
+
 ---
-# Development resources hub
+
+# Development and study resources hub
 - [[docker]]
 - [[githubRepositories]]
+- [[developmentCommunities]]
 - [[universityResources]]
+- [[googleScholar]]
+- [[overleaf]]
 - [[dBeaver]]
-- [[develpmentCommunities]]
+- [[mariaDb]]
+- [[jsonYamlTools]]

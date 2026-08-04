@@ -1,8 +1,12 @@
 ---
+
 tags:
   - hubLvl1
+
 ---
+
 ---
+
 # Development hub
 ## Sub-hubs
 - [[1_DEVELOPMENT_RESOURCES]]
@@ -10,16 +14,19 @@ tags:
 - [[3_PYTHON]]
 - [[4_JAVA]]
 - [[5_C]]
-- [[6_JSON_YAML]]
 
 ---
+
 - [[multilanguageProject]]
 - [[windowsClear]]
 - [[sortingAlgorithms]]
 - [[bitwise]]
-- [[iPhoneVisaHack]]
 - [[shellExplainer]]
-## Connections
-Youtube channel:
+- [[selfReplicateCode]]
+- [[polyglot]]
+- [[neuralNetwork]]
+
+## Sources
+Youtube channels:
 - https://www.youtube.com/@Green-Code/videos
 - https://www.youtube.com/@BroCodez/videos

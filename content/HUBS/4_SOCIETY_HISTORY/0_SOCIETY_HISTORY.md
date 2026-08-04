@@ -1,26 +1,32 @@
 ---
+
 tags:
   - hubLvl1
+
 ---
+
 ---
-# Society history hub
+
+# Society and history hub
 ## Sub-hubs
 - [[1_INTERNET]]
 
 ---
+
 - [[oldBeauty]]
 - [[phoneticAlphabet]]
-- [[muticulturalism]]
+- [[englishDictionary]]
+- [[grammelot]]
+- [[multiculturalism]]
 - [[jeremyClarkson]]
 - [[atlantropa]]
 - [[gridStudio]]
-- [[moneyValue]]
-- [[johnRockefeller]]
-- [[aiTax]]
-- [[englishDictionary]]
 - [[theoryHolding]]
-## Connections
-Youtube channel:
+- [[kobold]]
+- [[pleo]]
+
+## Sources
+Youtube channels:
 - https://www.youtube.com/@BarbascuraEXtra/videos
 - https://www.youtube.com/@NovaLectio/videos
 - https://www.youtube.com/@ProgettoHappiness/videos

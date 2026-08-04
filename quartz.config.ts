@@ -16,8 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "it-IT",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "lm-official.github.io/Link-Map",
+    ignorePatterns: ["private", "templates", ".obsidian", "**/.DS_Store"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

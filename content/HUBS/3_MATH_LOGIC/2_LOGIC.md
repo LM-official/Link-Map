@@ -1,10 +1,13 @@
 ---
+
 tags:
   - hubLvl2
+
 ---
+
 ---
-# Logic hub
+
+# Logic and puzzles hub
+- [[boolSolver]]
 - [[rubikCube]]
 - [[hackRandom]]
-- [[boolSolver]]
-- [[springsChain]]

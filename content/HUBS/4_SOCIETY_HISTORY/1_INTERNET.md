@@ -1,11 +1,17 @@
 ---
+
 tags:
   - hubLvl2
+
 ---
+
 ---
+
 # Internet hub
 - [[internetArchive]]
-- [[../../data/italianTroll]]
+- [[italianTroll]]
+- [[enshittification]]
 - [[virustotal]]
+- [[iPhoneVisaHack]]
 - [[downdetector]]
 - [[tor]]

@@ -1,7 +1,13 @@
 ---
+
 tags:
   - guide
+
 ---
+
 ---
+
 # Java official documentation
-- https://docs.oracle.com/javase/8/docs/api
+Oracle reference for the Java 8 standard library
+- API reference: https://docs.oracle.com/javase/8/docs/api
+- Class hierarchy: https://docs.oracle.com/javase/8/docs/api/overview-tree.html

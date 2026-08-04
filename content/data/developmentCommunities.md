@@ -1,9 +1,14 @@
 ---
+
 tags:
   - guide
+
 ---
+
 ---
-# Develpment communities
+
+# Development communities
+Sites and forums to learn from and ask questions
 - GitHub: https://github.com/search?q=&type=repositories
 - W3school: https://www.w3schools.com
 - Geeksforgeeks: https://www.geeksforgeeks.org
@@ -11,6 +16,9 @@ tags:
 - Dev community: https://dev.to
 - HTML.it: https://www.html.it/?refresh-ce
 - LeetCode: https://leetcode.com
-	- Tutorial: https://www.youtube.com/watch?v=m-akKNXwvQQ
+  - Tutorial: https://www.youtube.com/watch?v=m-akKNXwvQQ
 - Mozilla development network: https://developer.mozilla.org/en-US
 - Code valley: https://thevalleyofcode.com
+
+## Connections
+- [[githubRepositories]]

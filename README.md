@@ -3,12 +3,12 @@
 # 🗺️ Link-map
 **A personal knowledge base** — a *digital garden* of notes gathered through online research and structured as an interactive graph.
 
-![Notes](https://img.shields.io/badge/Notes-110-4c1?style=flat-square)
+![Notes](https://img.shields.io/badge/Notes-108-4c1?style=flat-square)
 ![Language](https://img.shields.io/badge/Notes-Italian-008C45?style=flat-square)
 ![Language](https://img.shields.io/badge/Notes-English-008C45?style=flat-square)
 ![License](https://img.shields.io/badge/Content-mixed%20copyright-lightgrey?style=flat-square)
 
-**[→ Explore the live graph](https://lm-official.github.io/Link-map)**
+**[→ Explore the live graph](https://lm-official.github.io/Link-Map)**
 
 > [!WARNING] These notes collect publicly available information for personal study. **I am not the owner of the content displayed.**
 
@@ -23,13 +23,13 @@ Link-map maps how I learn: every note is an atomic idea, every link a connection
 
 ## 🕸️ The graph
 The graph fans out from a single home node into progressively more specific topics:
-| Layer | Color | Role |
-| --- | :---: | --- |
-| **Core** | 🔴 | `0_HOME` — the entry point for navigation |
-| **Macro domains** | 🟡 | the main broad fields of knowledge |
-| **Thematic clusters** | 🟢 | topics within a domain (e.g. `3_PYTHON`, `4_JAVA`) |
-| **Intermediate hubs** | 🟣 | bridges that group dense topics into sections |
-| **Atomic notes** | ⚪ | the leaf nodes holding the actual content |
+| Layer | Color | Tag | Role |
+| --- | :---: | --- | --- |
+| **Core** | 🔴 | `hubLvl0` | `index` — the entry point for navigation |
+| **Macro domains** | 🟢 | `hubLvl1` | the main broad fields of knowledge |
+| **Thematic clusters** | 🔵 | `hubLvl2` | topics within a domain (e.g. `3_PYTHON`, `4_JAVA`) |
+| **Sub-clusters** | 🟡 | `hubLvl3` | bridges that group dense topics into sections |
+| **Atomic notes** | ⚪ | `documentary` · `guide` · `tool` | the leaf nodes holding the actual content |
 
 This keeps a high-level overview always in reach while letting me dive into the details.
 
@@ -40,11 +40,12 @@ This keeps a high-level overview always in reach while letting me dive into the 
 ## 🌍 Domains
 | Domain | What's inside |
 | :----- | :------------ |
-| 💻 **Development** | Web, **Python**, **Java**, **C** and data formats — tutorials, libraries and tools |
-| 🔬 **Science** | Biology, chemistry and astronomy — curiosities and documentaries |
+| 💻 **Development** | Web, **Python**, **Java**, **C** — tutorials, libraries and tools |
+| 🔬 **Science** | Biology, chemistry, astronomy and physics — curiosities and documentaries |
 | 🧮 **Math & Logic** | Numbers, theorems and boolean logic — curiosities and documentaries |
 | 🏛️ **Society & History** | How society evolves — including the history and culture of the internet |
 | 🎨 **Arts & Media** | Film, photography and new technologies |
+| 💸 **Finance**| Finance and economic history and suggestions|
 
 ---
 
@@ -53,7 +54,7 @@ This keeps a high-level overview always in reach while letting me dive into the 
 | :------ | :--------- | :------ |
 | **Hubs** | `UPPER_SNAKE_CASE` | `3_PYTHON` |
 | **Notes** | `camelCase` | `eulerNumber` |
-| **Tags** | one type per note | `documentary` · `guide` · `tool` |
+| **Tags** | one or more type tags per note | `documentary` · `guide` · `tool` |
 
 ---
 

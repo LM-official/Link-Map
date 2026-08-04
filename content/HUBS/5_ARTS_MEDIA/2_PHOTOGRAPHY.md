@@ -1,11 +1,14 @@
 ---
+
 tags:
   - hubLvl2
+
 ---
+
 ---
+
 # Photography hub
 - [[imgHistory]]
-- [[wetCollodion]]
-- [[iLoveImg]]
-- [[usplash]]
 - [[digitalCamera]]
+- [[wetCollodion]]
+- [[unsplash]]

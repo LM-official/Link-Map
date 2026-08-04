@@ -1,10 +1,15 @@
 ---
+
 tags:
   - documentary
+
 ---
+
 ---
-# Pi proof
-How to lie using visual proof
+
+# Pi and misleading visual proofs
+How a visual proof can be used to lie
 - https://www.youtube.com/watch?v=VYQVlVoWoPY
+
 ## Connections
 - [[collisionsComputePi]]

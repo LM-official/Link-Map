@@ -1,16 +1,21 @@
 ---
+
 tags:
   - hubLvl2
+
 ---
+
 ---
+
 # Biology hub
 - [[antarcticGiants]]
 - [[axolotl]]
 - [[asbestos]]
+- [[tobacco]]
 - [[machineVsUs]]
-- [[perfumeExtraction]]
 - [[yuka]]
 - [[botulinum]]
-## Connections
+
+## Sources
 Youtube channels:
 - https://www.youtube.com/@DrPlants/videos
