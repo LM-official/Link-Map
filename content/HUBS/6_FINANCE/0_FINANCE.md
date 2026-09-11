@@ -16,6 +16,6 @@ tags:
 
 ## Sources
 Youtube channels:
-- https://www.youtube.com/@PaoloColetti/videos
-- https://www.youtube.com/@MarksEconomics/videos
-- https://www.youtube.com/@TheoryTelevision/videos
+- https://www.youtube.com/@PaoloColetti
+- https://www.youtube.com/@MarksEconomics
+- https://www.youtube.com/@TheoryTelevision

@@ -15,7 +15,10 @@ tags:
 - [[machineVsUs]]
 - [[yuka]]
 - [[botulinum]]
+- [[predatorMeat]]
+- [[bodyFat]]
+- [[mathUnderLife]]
 
 ## Sources
 Youtube channels:
-- https://www.youtube.com/@DrPlants/videos
+- https://www.youtube.com/@DrPlants

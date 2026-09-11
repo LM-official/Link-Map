@@ -28,5 +28,5 @@ tags:
 
 ## Sources
 Youtube channels:
-- https://www.youtube.com/@Green-Code/videos
-- https://www.youtube.com/@BroCodez/videos
+- https://www.youtube.com/@Green-Code
+- https://www.youtube.com/@BroCodez

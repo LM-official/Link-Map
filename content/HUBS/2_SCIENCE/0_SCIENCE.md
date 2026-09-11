@@ -18,7 +18,7 @@ tags:
 
 ## Sources
 Youtube channels:
-- https://www.youtube.com/@BarbascuraEXtra/videos
-- https://www.youtube.com/@veritasium/videos
-- https://www.youtube.com/@NovaLectio/videos
-- https://www.youtube.com/@geopop/videos
+- https://www.youtube.com/@BarbascuraEXtra
+- https://www.youtube.com/@veritasium
+- https://www.youtube.com/@NovaLectio
+- https://www.youtube.com/@geopop

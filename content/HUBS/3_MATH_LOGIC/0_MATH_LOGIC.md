@@ -15,4 +15,4 @@ tags:
 ## Sources
 Youtube channels:
 - https://www.youtube.com/@3blue1brown (more about: https://www.3blue1brown.com/talent)
-- https://www.youtube.com/@veritasium/videos
+- https://www.youtube.com/@veritasium

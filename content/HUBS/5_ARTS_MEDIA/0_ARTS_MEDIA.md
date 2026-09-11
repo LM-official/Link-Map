@@ -21,20 +21,28 @@ tags:
 - [[clipArchive]]
 - [[gridStudio]]
 - [[vocalSynthesizer]]
+- [[premiumHardware]]
+- [[textEngineering]]
+- [[notificationEngineering]]
 
 ## Sources
-Design Youtube channel:
+
+Design Youtube channels:
+- https://www.youtube.com/@enricotartarotti
 - https://www.youtube.com/@BRECCIAdesign
+- https://www.youtube.com/@OttoCliman
+- https://www.youtube.com/@ManuelAgostini
 
 Tech Youtube channels:
 - https://www.youtube.com/@Prodigeek
 - https://www.youtube.com/@LinusTechTips
 - https://www.youtube.com/@SaddyTech
-- https://www.youtube.com/@OttoCliman
-- https://www.youtube.com/@ManuelAgostini
-- https://www.youtube.com/@notgeneralknowledge/videos
-- https://www.youtube.com/@ferrystech/videos
-- https://www.youtube.com/@Ferry-Tech/videos
-- https://www.youtube.com/@bytesizedexplainer/videos
-- https://www.youtube.com/@yotobi/videos
-- https://www.youtube.com/@MVVblog/videos
+- https://www.youtube.com/@ferrystech
+- https://www.youtube.com/@Ferry-Tech
+- https://www.youtube.com/@bytesizedexplainer
+- https://www.youtube.com/@MVVblog
+
+
+Miscellaneous Youtube channels:
+- https://www.youtube.com/@yotobi
+- https://www.youtube.com/@notgeneralknowledge

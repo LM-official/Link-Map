@@ -27,8 +27,8 @@ tags:
 
 ## Sources
 Youtube channels:
-- https://www.youtube.com/@BarbascuraEXtra/videos
-- https://www.youtube.com/@NovaLectio/videos
-- https://www.youtube.com/@ProgettoHappiness/videos
-- https://www.youtube.com/@safariumano/videos
-- https://www.youtube.com/@aledellagiusta/videos
+- https://www.youtube.com/@BarbascuraEXtra
+- https://www.youtube.com/@NovaLectio
+- https://www.youtube.com/@ProgettoHappiness
+- https://www.youtube.com/@safariumano
+- https://www.youtube.com/@aledellagiusta
