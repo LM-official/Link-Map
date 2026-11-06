@@ -1,15 +1,13 @@
 ---
-
+title: "Maria DB server"
 tags:
   - tool
-
 ---
 
----
-
-# Maria DB server
 Open-source relational database server, a fork of MySQL
+
 - https://mariadb.org
 
 ## Connections
-- [[dBeaver]]
+
+- [[dBeaver|DBeaver community]] — A database management client provides an interface for working with database servers.

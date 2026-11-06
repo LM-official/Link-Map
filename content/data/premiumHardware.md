@@ -1,15 +1,13 @@
 ---
-
+title: "What makes hardware premium"
 tags:
   - documentary
-
 ---
 
----
-
-# What makes hardware premium
 The lies that make hardware actually work
+
 - https://www.youtube.com/watch?v=wLIgrGAIRsE
 
 ## Connections
-- [[oldBeauty]]
+
+- [[oldBeauty|Old beauty]] — Both invite reflection on how design choices affect the objects and environments around us.

@@ -1,14 +1,11 @@
 ---
-
+title: "Development communities"
 tags:
   - guide
-
 ---
 
----
-
-# Development communities
 Sites and forums to learn from and ask questions
+
 - GitHub: https://github.com/search?q=&type=repositories
 - W3school: https://www.w3schools.com
 - Geeksforgeeks: https://www.geeksforgeeks.org
@@ -21,4 +18,5 @@ Sites and forums to learn from and ask questions
 - Code valley: https://thevalleyofcode.com
 
 ## Connections
-- [[githubRepositories]]
+
+- [[githubRepositories|Some useful GitHub repositories]] — Curated repositories offer a more structured starting point alongside community discussions.

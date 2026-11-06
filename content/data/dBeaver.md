@@ -1,15 +1,13 @@
 ---
-
+title: "DBeaver community"
 tags:
   - guide
-
 ---
 
----
-
-# DBeaver community
 Free Open-Source Database Management Tool
+
 - https://dbeaver.io
 
 ## Connections
-- [[mariaDb]]
+
+- [[mariaDb|Maria DB server]] — MariaDB is a database server that can be explored with a database management client.

@@ -1,14 +1,11 @@
 ---
-
+title: "Some useful GitHub repositories"
 tags:
   - guide
-
 ---
 
----
-
-# Some useful GitHub repositories
 Curated repositories collecting learning material for developers
+
 - Awesome lists: https://github.com/sindresorhus/awesome
 - Algorithms: https://github.com/thealgorithms
 - Build your own X: https://github.com/codecrafters-io/build-your-own-x
@@ -28,5 +25,6 @@ Curated repositories collecting learning material for developers
 - Video explaining these repositories: https://www.youtube.com/watch?v=cgOPg5cCr2g
 
 ## Connections
-- [[developmentCommunities]]
-- [[universityResources]]
+
+- [[developmentCommunities|Development communities]] — Communities complement curated repositories with discussion and questions.
+- [[studyResources#University resources|University resources]] — University material provides another route to structured study.
