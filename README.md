@@ -3,7 +3,7 @@
 # 🗺️ Link-map
 **A personal knowledge base** — a _digital garden_ of ideas and resources gathered through online research and published as an interactive graph.
 
-![Entries](https://img.shields.io/badge/Entries-98-4c1?style=flat-square)
+![Entries](https://img.shields.io/badge/Entries-102-4c1?style=flat-square)
 ![Hubs](https://img.shields.io/badge/Hubs-6-284b63?style=flat-square)
 ![Language](https://img.shields.io/badge/Notes-Italian-008C45?style=flat-square)
 ![Language](https://img.shields.io/badge/Notes-English-008C45?style=flat-square)

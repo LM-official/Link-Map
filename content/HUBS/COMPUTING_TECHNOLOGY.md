@@ -15,6 +15,7 @@ Programming, software systems, security, and machine intelligence. Start with a 
 - [[cReference|C reference]] — Primitive types and standard library references.
 - [[javaDoc|Java official documentation]] — Java API documentation and class hierarchy.
 - [[sortingAlgorithms|Sorting algorithms]] — Compare classic sorting methods.
+- [[gameOptimization|Video game optimization]] — Explore optimization in game development.
 - [[bitwise|Why use bitwise operations]] — Understand operations that work directly on bits.
 - [[multilanguageProject|Multilanguage project]] — Combine several programming languages in one project.
 - [[polyglot|Polyglot]] — Explore files that are valid in more than one language.
@@ -30,6 +31,7 @@ Programming, software systems, security, and machine intelligence. Start with a 
 - [[mariaDb|Maria DB server]] — A relational database server.
 - [[dBeaver|DBeaver community]] — A client for inspecting and managing databases.
 - [[jsonYamlTools|JSON and YAML tools]] — Format, convert, and visualize structured data.
+- [[fileCompression|File compression formats]] — Compare formats for compressed files.
 - [[shellExplainer|Shell explainer]] — Understand a shell command flag by flag.
 - [[windowsClear|Windows cleanup software]] — Resources about cleaning up a Windows installation.
 - [[downdetector|Downdetector]] — Check reported service outages.
@@ -45,6 +47,7 @@ Programming, software systems, security, and machine intelligence. Start with a 
 ## AI & robotics
 
 - [[neuralNetwork|Neural network]] — A visual introduction to neural networks.
+- [[appleAiStrategy|Apple and the AI race]] — A video essay on Apple's position in AI.
 - [[machineVsUs|Why no machine can truly replicate us]] — Questions about machines and human cognition.
 - [[pleo|Pleo]] — A robot dinosaur as a robotics example.
 

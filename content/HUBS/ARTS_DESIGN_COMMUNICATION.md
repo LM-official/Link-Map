@@ -15,6 +15,7 @@ How images, objects, performances, and language communicate. Explore creative te
 - [[designResources|Design resources]] — Palettes, fonts, icons, illustrations, and photographs.
 - [[gridStudio|Grid Studio]] — Electronic components presented as framed design objects.
 - [[premiumHardware|What makes hardware premium]] — What makes hardware feel premium.
+- [[minimalism|Minimalism in design]] — A discussion of changing visual design styles.
 - [[oldBeauty|Old beauty]] — A reflection on the appearance of the built world.
 
 ## Film & animation
